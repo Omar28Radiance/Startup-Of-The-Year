@@ -19,6 +19,10 @@ hr {
 	border-color: #F05F44;
 	border-width: 3px;
 	max-width: 65px;
+	margin: 20px auto;
+	color: #F05F44;
+	border: 3px solid #F05F44;
+	opacity: 1;
 }
 
 .buffer {
@@ -34,8 +38,6 @@ hr {
 .btn-primary {
 	background-color: #F05F44;
 	border-color: #F05F44;
-	--bs-btn-hover-bg: #ee4b08;	
-    --bs-btn-hover-border-color: #ee4b08;
 }
 
 .btn-primary:hover {
@@ -47,4 +49,3 @@ hr {
 .btn-xl {
 	padding: 1rem 2rem;
 }
-
